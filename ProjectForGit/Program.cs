@@ -9,9 +9,6 @@ namespace ProjectForGit
             Console.WriteLine("Hello World!");
 
             // сделал всю задачу
-            //adasdasd
-            //asdasdsa
-            //zczc
         }
     }
 }
