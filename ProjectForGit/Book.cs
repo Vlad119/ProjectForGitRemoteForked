@@ -9,5 +9,8 @@ namespace ProjectForGit
     internal class Book
     {
         public int MyProperty { get; set; }
+        public int asfa { get; set; }
+        public int MyPropsdgadserty { get; set; }
+        public int MyPrdfghdeoperty { get; set; }
     }
 }
